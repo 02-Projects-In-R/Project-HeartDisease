@@ -1,1 +1,4 @@
-# Project-HeartDisease
+Purpose:
+The principal purpose of this project will be on data cleaning, merging different data sets, aggregating variables, and exploring the variables to see association between the categorical variables and correlation between the numerical ones. The data set that we are going to explore is about Heart Disease. 
+
+The use of databases and data analysis techniques have become increasingly important in the field of medicine, particularly in the study and treatment of diseases such as heart disease. By analyzing large amounts of medical data, researchers and healthcare professionals can gain valuable insights into the causes, risk factors, and potential treatments for these conditions.Additionally, the use of databases and data analysis can improve patient outcomes by providing more personalized and effective care. As such, a comprehensive analysis of medical databases is crucial for advancing our understanding of heart disease and developing better strategies for prevention and treatment.
